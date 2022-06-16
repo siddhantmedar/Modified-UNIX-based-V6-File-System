@@ -1,0 +1,3 @@
+/home/sidmedar313/CLionProjects/OS Project Part 2 (copy)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sidmedar313/CLionProjects/OS Project Part 2 (copy)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sidmedar313/CLionProjects/OS Project Part 2 (copy)/cmake-build-debug/CMakeFiles/part2.dir
